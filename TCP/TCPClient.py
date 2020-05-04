@@ -1,3 +1,5 @@
+
+# Importação da biblioteca de socket
 from socket import *
 
 nomeServidor = '127.0.0.1'
